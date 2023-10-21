@@ -8,4 +8,4 @@ Shell-Scripts to automate task with alerts:-
 
 --------------
 Advanced Shell-Script:-
-1. API communication with GITHUB for grant as well as revoke access to User for particular repository.
+1. API communication with GITHUB for access User information for a particular repository.
