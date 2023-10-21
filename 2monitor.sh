@@ -1,7 +1,9 @@
 #!/bin/bash
 
 #Author: KYash
-
+#set -x #debug code
+#set -e #exit script when error terminate further compilation
+#set -o #-e with pipefail
 
 echo "List of S3 Buckets: $(aws s3 ls)"
 
