@@ -6,7 +6,6 @@
 #set -x #debug code
 #set -e #exit script when error terminate further compilation
 #set -o #-e with pipefail
-#set -exo
 
 
 echo "******Shell Scripting Project******"
